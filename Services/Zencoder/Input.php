@@ -10,6 +10,7 @@
  * @link     http://github.com/zencoder/zencoder-php
  */
 
+#[\AllowDynamicProperties]
 class Services_Zencoder_Input extends Services_Zencoder_Object
 {
 }
